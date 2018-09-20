@@ -21,9 +21,14 @@ all these data from controller will be visible by GNU/Linux system that runs the
 in our example 
 **raspberry pi (also need charger sd card and maybe a box)**
 
-You will need 1 meters from each 5 color dupont cables and female and male pins also a tool to connect and cut or you can buy ready some 10-20 cm mix female & male to male & female
+You will need one meter dupont cable per color (5 x 1m).
 
-also an access point that nodemcu32 our raspberry and the users will connect to see the weather info 
+Both female and male pins. 
+A tool to connect and cut 
+or 
+You can purchase ready made ones, 10-20 cm mix female & male to male & female
+
+also an access point (simple router)  that nodemcu32, the raspberry and the users would all be connected to, in order to be able to check the weather info 
 
 Step1
 
