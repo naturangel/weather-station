@@ -5,7 +5,7 @@ by commonslabgr and they also feed us back with many of the information given be
 
 also needed
 
-**a nodmcu32 controller**
+**a nodemcu32 controller**
 
 an analog to digital converter
 
@@ -32,7 +32,7 @@ also an access point (simple router)  that nodemcu32, the raspberry and the user
 
 Step1
 
-You need to flash the nodmcu32 controller with the ESPEASY firmware (https://www.letscontrolit.com/wiki/index.php/ESPEasy)
+You need to flash the nodemcu32 controller with the ESPEASY firmware (https://www.letscontrolit.com/wiki/index.php/ESPEasy)
 after that
 **Restart ESP. WiFi AP "ESP_Easy_0" will appear, password: configesp** 
 
